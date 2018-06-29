@@ -1,6 +1,6 @@
-### Catch Me Game
+# Catch Me Game
 
-# Description:
+### Description:
 Let's use arrow keys to control Mario and collect the coins.
 Mario moves on a board with the size of 10x10 fields.
 There is a coin on the random field of the board.
